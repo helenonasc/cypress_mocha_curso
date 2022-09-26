@@ -1,4 +1,4 @@
 {
-    "baseUrl": "https://...",
+    "baseUrl": "https://conexaoqa.herokuapp.com/",
     "allure": "true"
 }
